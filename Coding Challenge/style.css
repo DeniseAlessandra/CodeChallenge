@@ -1,0 +1,51 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+header :first-child{
+    margin-left: 500px;
+}
+header :last-child{
+    text-align: center;
+    color: rgb(21, 255, 0);
+    font-size: 250%;
+}
+.scatola{
+    background-color: rgba(0, 0, 0, 0.322);
+    border-radius: 10%;
+    margin: 5% 20%;
+    padding: 300px;
+}
+nav{
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    background-color: rgb(43, 255, 0);
+    line-height: 60px;
+  }
+.testomono{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    color: rgb(95, 221, 83);
+ }
+#stato1{
+    color: rgb(40, 158, 255);
+    background-color: rgb(40, 158, 255);
+    margin-right: 700px;
+    border-radius: 6%;
+    line-height: 40px;
+}
+#stato2{
+    color: rgb(74, 150, 51);
+    background-color: rgb(74, 150, 51);
+    margin-right: 1000px;
+    line-height: 40px;
+    border-radius: 6%;
+}
+#stato3{
+    color: rgb(196, 80, 72);
+    background-color: rgb(196, 80, 72);
+    margin-right: 800px;
+    border-radius: 6%;
+    line-height: 40px;
+}
